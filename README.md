@@ -47,12 +47,12 @@ Authentication is handled via Firebase, and the UI is styled with TailwindCSS.
 
 ## Getting Started Locally
 
-1. Clone the repository:
-   ```bash
+
+ 1. Clone the repository:
+```bash
 git clone https://github.com/yourusername/event-booking-client.git
 cd event-booking-client
  ....
-
 
 
 
