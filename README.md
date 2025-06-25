@@ -54,16 +54,6 @@ cd event-booking-client
  ....
 
 
-3. Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-```bash
-git clone https://github.com/yourusername/event-booking-client.git
-cd event-booking-client
- ....
 
 
 
