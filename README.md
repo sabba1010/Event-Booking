@@ -1,12 +1,54 @@
-# React + Vite
+# Event Booking - Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live](https://harmonious-gaufre-7b6922.netlify.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+This is the **frontend client** for the Event Booking application built with React.  
+Users can browse events, register/login, book events, and view their bookings.  
+Authentication is handled via Firebase, and the UI is styled with TailwindCSS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+
+## Technology Stack
+
+- React
+- Firebase Authentication (Email/Password & Google OAuth)
+- TailwindCSS
+- React Router
+- React Toastify
+
+---
+
+## Features
+
+- User registration and login with Firebase Authentication
+- Browse available events with search and filters
+- Book events and view bookings in user dashboard
+- Responsive and clean UI design with TailwindCSS
+- Toast notifications for feedback on actions
+
+---
+
+## Dependencies
+
+- react
+- react-router-dom
+- firebase
+- react-toastify
+- axios
+- tailwindcss
+
+---
+
+## Getting Started Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/event-booking-client.git
+cd event-booking-client
