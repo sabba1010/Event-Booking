@@ -1,0 +1,62 @@
+[
+  {
+    "id": "event_001",
+    "name": "Tech Innovators Conference 2025",
+    "thumbnail": "https://i.ibb.co/4Zt67RWy/annie-spratt-h-Cb3l-IB8-L8-E-unsplash.jpg",
+    "category": "Technology",
+    "date": "2025-05-15",
+    "location": "Dhaka Convention Center, Dhaka",
+    "entry_fee": 500,
+    "description": "An exclusive gathering of tech leaders and innovators from across the country."
+  },
+  {
+    "id": "event_002",
+    "name": "Modern Art Fiesta",
+    "thumbnail": "https://i.ibb.co/G4rX5Kqy/brooke-cagle-g1-Kr4-Ozfoac-unsplash.jpg",
+    "category": "Art",
+    "date": "2025-06-10",
+    "location": "Chittagong Art Gallery, Chattogram",
+    "entry_fee": 0,
+    "description": "A vibrant exhibition of modern and abstract artworks by upcoming artists."
+  },
+  {
+    "id": "event_003",
+    "name": "AI & Robotics Expo",
+    "thumbnail": "https://i.ibb.co/MDGSGJj7/cherrydeck-r-MILC1-PIw-M0-unsplash.jpg",
+    "category": "Technology",
+    "date": "2025-07-05",
+    "location": "Sylhet IT Park, Sylhet",
+    "entry_fee": 300,
+    "description": "Explore the latest innovations in artificial intelligence and robotics."
+  },
+  {
+    "id": "event_004",
+    "name": "Creative Arts Workshop",
+    "thumbnail": "https://i.ibb.co/m5B3bhcd/rodeo-project-management-software-ONe-snu-Caq-Q-unsplash.jpg",
+    "category": "Art",
+    "date": "2025-08-12",
+    "location": "Khulna Cultural Center, Khulna",
+    "entry_fee": 200,
+    "description": "A hands-on workshop for painting, sculpting, and mixed media enthusiasts."
+  },
+  {
+    "id": "event_005",
+    "name": "Future Tech Meetup",
+    "thumbnail": "https://i.ibb.co/wFLKD3qV/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+    "category": "Technology",
+    "date": "2025-09-18",
+    "location": "Rajshahi University Auditorium, Rajshahi",
+    "entry_fee": 400,
+    "description": "Join tech professionals to discuss upcoming trends in software and hardware."
+  },
+  {
+    "id": "event_006",
+    "name": "National Art Carnival",
+    "thumbnail": "https://i.ibb.co/LDHqfBJy/lycs-architecture-U2-BI3-GMn-SSE-unsplash.jpg",
+    "category": "Art",
+    "date": "2025-10-25",
+    "location": "Barisal Shilpakala Academy, Barisal",
+    "entry_fee": 0,
+    "description": "Celebrate art, culture, and creativity with artists from all over Bangladesh."
+  }
+]
